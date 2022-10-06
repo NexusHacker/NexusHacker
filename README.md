@@ -13,7 +13,9 @@
 
 - <h4 align ="left">📝 I Currently Maintaining </h4><p align="right"><img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png" style="width:46px;height:46px;">UnOfficial</p>
 <p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/40351870?s=200&v=4" style="width:46px;height:46px;">
-<a href="https://github.com/ArrowOS">ArrowOS<img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png" style="width:46px;height:46px;"></p></h3></a>
+<a href="https://github.com/ArrowOS">ArrowOS<img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png" style="width:46px;height:46px;"> </p></h3></a>
+<p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/104134419?s=200&v=44" style="width:46px;height:46px;">
+<a href="https://github.com/RiceDroid">RiceDroid<img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png" style="width:46px;height:46px;"> </p></h3></a>
 
 - Kernel for Realme 3 pros : 
 <p align="center"><h3 align="center">•Illusion:<a href="https://github.com/Blaster4385/IllusionX_sdm710.git">Click Here</p></h3></a>
@@ -32,7 +34,8 @@
 - Wanna Learn how to Build Roms
 <a href="https://maheshtechnicals.com/2019/10/24/compile-rom-from-source/">Learn here</a>
 
-- Thanks to <a href="https://github.com/KrishWalecha">KrishW</a> ,<a href="https://github.com/Cykeek">Cykeek</a> ,<a hre="https://github.com/krishnakantshedge">Krishnakantshedge</a>, <a href="https://github.com/zaidkhan0997">Zaidkhan0997</a> for helping me a lot 
+- Thanks to <a href="https://github.com/KrishWalecha">KrishW</a> ,<a href="https://github.com/Cykeek">Cykeek</a> ,
+ <a href="https://github.com/zaidkhan0997">Zaidkhan0997</a> ,<a href="https://github.com/krishnakantshedge">KrishnakantShedge</a> for helping me a lot 
 
 
 <h3 align="left">Languages and Tools:</h3>
